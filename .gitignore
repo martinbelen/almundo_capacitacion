@@ -1,0 +1,4 @@
+#Cosas para ignorar por GIT
+
+node_modules/
+porno/
